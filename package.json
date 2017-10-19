@@ -1,0 +1,12 @@
+{
+  "name": "uportDemo",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.20.0",
+    "meteor-node-stubs": "^0.2.11",
+    "uport-connect": "^0.6.6"
+  }
+}
